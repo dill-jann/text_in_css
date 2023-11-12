@@ -126,3 +126,56 @@
           color: darkmagenta;
         } */
 
+        /* Style Links */
+        /* a:link{
+          color: rgb(128, 26, 0);
+        }
+
+        a:visited{
+          color: rgb(56, 156, 13);
+        } */
+
+/* Responding to user */
+/* hover */
+/* background-color: pink */
+/* input.btn:active{
+  background-color: blue;
+}
+
+input.btn:focus{
+  background-color: coral;
+}
+input.btn:focus{
+  background-color: cornflowerblue;
+} */
+
+/* Attribute Selectors */
+/* Existance */
+/* h1[na]{
+  color: aqua;
+} */
+/* equality */
+/* h1[test-"hi"]{
+  color: purple;
+} */
+
+/* space */
+/* h1[test~= 'jenn']{
+  color: brown;
+
+} */
+
+/* prefix */
+/* h1[test^="hi"]{
+color: darkblue;
+} */
+
+/* substring */
+/* h1[test*=ll]{
+  color: darkgoldenrod;
+} */
+
+/* suffix */
+h1[test$="l"]{
+  color: darkslategray;
+}
