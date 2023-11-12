@@ -1,0 +1,128 @@
+/* Font Family */
+/* body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+    h1, 
+    h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    .credits {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+
+/* Font Size  */
+/* Pixels  */
+/* body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 20px;}  */
+    /* Percentage  */
+    /* h1 {
+    font-size: 300%;} 
+    default Values  */
+    /* p{
+        font-size: xx-large;
+    } */
+ 
+    /* Font Face */
+    /* @font-face {
+        font-family: 'test';
+        src: url('./font/text_in_css/font_family/DancingScript-Bold.ttf');
+    }
+
+    h1{
+        font-family: 'test';
+    } */
+
+    /* Font Weight */
+     /* p{
+        font-weight: 900;
+     }
+         */
+
+         /* Font Style */
+         /* h1{
+            font-style: oblique;
+         }
+   
+         p{
+            font-style: inherit;
+         } 
+         /* using id selector and comparing 3 style */
+         /* #normal{
+            font-style: normal;
+         }
+         #italic{
+            font-style: italic;
+         }
+         #oblique{
+            font-style: oblique;
+         } */
+
+         /* text-transform */
+         /*chocolate */
+          /* CHOCOLATE */
+           /*chocolate */
+         /*  "Chocolate Is Happiness You Can Eat." */
+         /* h1{
+            text-transform:uppercase;
+         }
+         P{
+            text-transform: uppercase;
+         } */
+         /* text-decoration */
+          /* #underline{
+            text-decoration: underline;
+          }
+          #overline{
+            text-decoration: overline;
+          }
+          #line_through{
+            text-decoration: line-through;
+          }
+          #blink{
+            text-decoration:blink ;
+          } */
+          /* line-height */
+          /* p{
+            line-height: 10px;
+          } */
+
+          /*  Word Spacing */
+          /* h1{
+            word-spacing: 50px;
+          } */
+          /* Letter spacing */
+        /* h1{
+            letter-spacing: 5px;
+        } */
+        /* text-align */
+        /* h1{
+            text-align: center;
+        }
+        p{
+            text-align: justify;
+        } */
+
+        /* Vertical Alighment */
+        /* img{
+            vertical-align: text-bottom;
+        } */
+        /* text-indent */
+        /* h1{
+            text-indent: 50px;
+        } */
+        /* text-shadow */
+        /* h1{
+            background-color: #ef4448;
+            color: #435e;
+            text-shadow:1px 1px 0px #000000;
+        }  */ 
+
+        /* First LIne or Sentnces */
+        /* p::first-letter{
+            color: brown;
+        }
+        P::first-line{
+          color: darkmagenta;
+        } */
+
